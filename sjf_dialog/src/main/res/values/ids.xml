@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- SJFDialog 背景View ID -->
+    <item name= "id_sjf_dialog_background" type="id" />
+</resources>
